@@ -1,3 +1,4 @@
+
 function question1() {
 
     let total = 0;
